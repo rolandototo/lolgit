@@ -1,0 +1,26 @@
+.get-hover {
+    &:hover {
+        .scaled {
+            transform: scale(0.7);
+        }
+
+        .oculto {
+            opacity: 1;
+            width: 80%;
+            height: 100%;
+        }
+    }
+
+    .scaled {
+        transition: 0.5s;
+    }
+
+    .oculto {
+        transition: 0.5s;
+    }
+}
+.btnico{
+    &:hover{
+        color: $col-prim;
+    }
+}

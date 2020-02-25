@@ -1,0 +1,18 @@
+.wl-carousel{
+    position: relative;
+   
+}
+.owl-nav{
+    position: absolute;
+    margin-top: 0 !important;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    width: 107%;
+    display: flex;
+    justify-content: space-between;
+    
+} 
+.owl-dots{
+    position: absolute;
+}
