@@ -5,6 +5,8 @@ include 'partphp/header.php';
 
 ?>
 <div></div>
+aaxrcdtfvygbuhnj
+
         <div id="titulo">
             <h1 class="hoculto">OHAR</h1>
             <img id="img-prin" src="img/logo/logo ohar COMPLETO.svgz" alt="">
